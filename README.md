@@ -1,5 +1,8 @@
 # feeder-worst　
 Tampermonkeyにあったスクリプトが動かなかったので作成しました。
+
+
+***このツールはオープンソースです。拡張、改造等は自己責任です。***
 ### IOSの場合
 https://www.icloud.com/shortcuts/12fa1492a1af4967b63ad72998896957
 ※ショートカットアプリが立ち上がります
